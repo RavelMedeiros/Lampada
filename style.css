@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+body {
+    background: rgb(29, 29, 29);
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Press Start 2P', cursive;
+}
+
+#imagem-lampada {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.botões {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#botãoLigar {
+    font-family: 'Press Start 2P', cursive;
+    background: rgb(29, 29, 29);
+    color: white;
+    border: none;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: solid;
+}
+
+#botãoLigar:hover {
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+    border: none;
+    border: solid rgb(29, 29, 29);
+}
