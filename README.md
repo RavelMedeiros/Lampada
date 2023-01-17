@@ -1,5 +1,8 @@
 <h1>Projeto Lampada</h1>
 
+![image](https://user-images.githubusercontent.com/112495220/213029397-a0b1d455-dbf5-410a-9bd0-c9f6a16c74ee.png) 
+
+
 Este projeto é uma simples aplicação de JavaScript que simula o comportamento de uma lâmpada. Ele permite que você acenda, apague e quebre a lâmpada.
 
 <h2>Instalação</h2>
